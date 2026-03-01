@@ -1,0 +1,5 @@
+{
+  "name": "SwiftShop Admin",
+  "description": "Mobile-first e-commerce store with real-time management notifications for orders, inventory, and shipping.",
+  "requestFramePermissions": ["notifications"]
+}
